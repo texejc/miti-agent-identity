@@ -1,0 +1,19 @@
+{
+  "agents": [
+    {
+      "agent": "MITI Claudia",
+      "operator": "Texenery Cabrera",
+      "contact": "texejc@gmail.com",
+      "description": "AI agent acting on behalf of user to apply for jobs and rentals in Milton Keynes UK",
+      "keys": [
+        {
+          "id": "miti-claudia-key-1",
+          "algorithm": "ed25519",
+          "publicKey": "AJ3iq3nuxn4NJK6EQxW8yvJ+7vqUC8O/PETrRV5XZB8=",
+          "created": "2026-06-27",
+          "expires": "2027-06-27"
+        }
+      ]
+    }
+  ]
+}
